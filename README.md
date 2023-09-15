@@ -1,2 +1,1 @@
-# genesis_nft
-this contains codes for genesis event, nft and certificates.
+# This code is for genesis event
