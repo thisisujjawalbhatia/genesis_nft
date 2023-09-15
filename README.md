@@ -1,2 +1,2 @@
 # genesis_nft
-nft,blockchain,smartcontract,deployment
+this contains codes for genesis event, nft and certificates.
